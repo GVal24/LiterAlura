@@ -1,5 +1,6 @@
 # LiterAlura
-![image](https://github.com/user-attachments/assets/20e23f37-0dc1-4c80-a6ed-2f5cc59de3fd)
+![image](https://github.com/user-attachments/assets/8c9aeecc-664e-4539-a4bb-294b5fa00cd5)
+
 
 ## Descripción
 Challenge propuesto por Alura Latam, durante el programa ONE. <br>
